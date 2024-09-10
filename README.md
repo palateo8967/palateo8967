@@ -1,4 +1,7 @@
 .🏫 Secundaria: E.E.S.T N°1
+.🤖 Curso: 6°3
+.👾 Materia: Programacion
+.🥸 Profesor: Pablo Gareis
 .🌍 Argentina, Buenos Aires, Esteban Echeverria
 .📮 Email: palateo8967@gmail.com
 .💻 Lenguajes de programacion vistos:
@@ -7,7 +10,8 @@
 	-@CSS
  	-@PHP
 	-@C#
- 	-@SqlServer
+ 	-@Sql
+  	-@mySql
 	-@Java
  	-@QBasic
 
