@@ -1,22 +1,20 @@
-.🏫 Secundaria: E.E.S.T N°1
-.🤖 Curso: 6°3
-.👾 Materia: Programacion
-.🥸 Profesor: Pablo Gareis
-.🌍 Argentina, Buenos Aires, Esteban Echeverria
-.📮 Email: palateo8967@gmail.com
-.💻 Lenguajes de programacion vistos:
-	-@javascript
- 	-@HTML
-	-@CSS
- 	-@PHP
-	-@C#
- 	-@Sql
-  	-@mySql
-	-@Java
- 	-@QBasic
+• 🎓 Estudiante de Programación en E.E.S.T N°1
+Hola! Soy estudiante de 6°3 en la E.E.S.T N°1 de Esteban Echeverría, Buenos Aires, Argentina. Actualmente, curso Programación con el profesor Pablo Gareis y me apasiona el mundo del desarrollo de software. 🚀
 
+💻 Lenguajes de Programación:
+Durante mis estudios he trabajado con varios lenguajes y tecnologías, entre los que se incluyen:
 
+• JavaScript 🛠️
+• HTML & CSS 🎨
+• PHP 🐘
+• C# 🔧
+• SQL & MySQL 🗄️
+• Java ☕
+• QBasic 📊
+Siempre estoy buscando aprender y mejorar mis habilidades, especialmente en el área de desarrollo web y bases de datos. 👾
 
+📫 Contacto:
+• Email: palateo8967@gmail.com
 
 
 
